@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Github/Project_1/Project_1/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+			]
+		}
+	]
+}

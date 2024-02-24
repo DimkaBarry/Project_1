@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Project_1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Github\Project_1\Project_1\Intermediate\Build\Win64\x64\Project_1Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"F:\Github\Project_1\Project_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_1\Project_1.cpp.obj"
+"F:\Github\Project_1\Project_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_1\Default.rc2.res"
+/OUT:"F:\Github\Project_1\Project_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_1\UnrealEditor-Project_1.lib"

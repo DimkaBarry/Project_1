@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\github\\project_1\\project_1\\source\\project_1\\project_1.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\github\\project_1\\project_1\\intermediate\\build\\win64\\x64\\project_1editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "f:\\github\\project_1\\project_1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\project_1\\definitions.project_1.h",
+            "f:\\github\\project_1\\project_1\\source\\project_1\\project_1.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
