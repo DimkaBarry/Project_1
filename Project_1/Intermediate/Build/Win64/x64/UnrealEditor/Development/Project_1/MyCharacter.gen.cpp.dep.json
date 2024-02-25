@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\github\\project_1\\project_1\\intermediate\\build\\win64\\unrealeditor\\inc\\project_1\\uht\\mycharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\github\\project_1\\project_1\\intermediate\\build\\win64\\x64\\project_1editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "f:\\github\\project_1\\project_1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\project_1\\definitions.project_1.h",
+            "f:\\github\\project_1\\project_1\\source\\project_1\\public\\mycharacter.h",
+            "g:\\apps\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "g:\\apps\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "g:\\apps\\unreal engine\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "g:\\apps\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "g:\\apps\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "g:\\apps\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "g:\\apps\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "g:\\apps\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "g:\\apps\\unreal engine\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "g:\\apps\\unreal engine\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "f:\\github\\project_1\\project_1\\intermediate\\build\\win64\\unrealeditor\\inc\\project_1\\uht\\mycharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
