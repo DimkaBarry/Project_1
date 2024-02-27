@@ -43,19 +43,19 @@ void AMyCharacter::Move(const FInputActionValue& Value)
 	//if (ActionState != EActionState::EAS_Unoccupied) return;
 	const FVector2D MovementVector = Value.Get<FVector2D>();
 	
-	/*const FVector Forward = GetActorForwardVector();
+	const FVector Forward = GetActorForwardVector();
 	AddMovementInput(Forward, MovementVector.Y);
 
 	const FVector Right = GetActorRightVector();
-	AddMovementInput(Right, MovementVector.X);*/
+	AddMovementInput(Right, MovementVector.X);
 
-	const FRotator Rotation = Controller->GetControlRotation();
+	/*const FRotator Rotation = Controller->GetControlRotation();
 	const FRotator YawRotation(0.f, Rotation.Yaw, 0.f);
 
 	const FVector ForwardDirection = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X);
 	AddMovementInput(ForwardDirection, MovementVector.Y);
 	const FVector RightDirection = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y);
-	AddMovementInput(ForwardDirection, MovementVector.X);
+	AddMovementInput(ForwardDirection, MovementVector.X);*/
 }
 
 void AMyCharacter::Look(const FInputActionValue& Value)
